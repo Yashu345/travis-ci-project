@@ -26,5 +26,4 @@ deploy:
   skip-cleanup: true
   api_key: $HEROKU_TOKEN # The environment variable you'll create later for a token.
 	app: node-travis-new-app 
-
   
